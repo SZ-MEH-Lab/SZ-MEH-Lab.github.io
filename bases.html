@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>实验基地 — MEH Lab</title>
+  <link rel="icon" href="img/logo.png" type="image/png" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/simplex/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="d-flex flex-column min-vh-100" data-lang="zh" data-page="bases">
+
+  <div class="site-topbar">
+    <div class="site-topbar-inner">
+      <a href="index.html" class="site-brand" data-i18n="groupBrand">MEH Lab</a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav"
+        aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <nav class="site-nav navbar-collapse collapse" id="mainNav">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="index.html" data-i18n="navHome">首页</a></li>
+          <li class="nav-item"><a class="nav-link" href="people.html" data-i18n="navPeople">成员</a></li>
+          <li class="nav-item"><a class="nav-link" href="publications.html" data-i18n="navPubs">论文</a></li>
+          <li class="nav-item"><a class="nav-link" href="software.html" data-i18n="navSoftware">软件</a></li>
+          <li class="nav-item"><a class="nav-link" href="teaching.html" data-i18n="navTeaching">教学</a></li>
+          <li class="nav-item"><a class="nav-link active" href="bases.html" data-i18n="navBases">实验基地</a></li>
+          <li class="nav-item"><a class="nav-link" href="outings.html" data-i18n="navOutings">活动</a></li>
+        </ul>
+      </nav>
+
+      <div class="site-topbar-lang">
+        <div class="lang-switch" role="group" aria-label="Language">
+          <button type="button" class="lang-btn active" data-lang-set="zh">中文</button>
+          <button type="button" class="lang-btn" data-lang-set="en">EN</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class="container page-main">
+    <h2 class="section-title" data-i18n="basesTitle">实验基地</h2>
+    <div class="base-list" id="bases-list"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-logos">
+        <a href="https://www.ecnu.edu.cn/" class="footer-logo-text" data-i18n="footerUniv">华东师范大学</a>
+        <a href="https://sees.ecnu.edu.cn/" class="footer-logo-text" data-i18n="footerSchool">生态与环境科学学院</a>
+        <span class="footer-logo-text">MEH Lab</span>
+      </div>
+      <div class="row g-4">
+        <div class="col-md-6 footer-contact-block">
+          <h5 data-i18n="piName">张思宇</h5>
+          <p class="role" data-i18n="piTitle">教授</p>
+          <p><span class="contact-icon">✉️</span> syzhang@des.ecnu.edu.cn</p>
+          <p><span class="contact-icon">📍</span> <span data-i18n="piOffice">闵行校区资环楼 219</span></p>
+        </div>
+        <div class="col-md-6 footer-contact-block">
+          <h5 data-i18n="footerLab">MEH Lab</h5>
+          <p class="role" data-i18n="piLabShort">微生物组学与生态系统健康</p>
+          <p><span class="contact-icon">📍</span> <span data-i18n="piAddress">上海市闵行区东川路 500 号（邮编 200241）</span></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/bases.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
