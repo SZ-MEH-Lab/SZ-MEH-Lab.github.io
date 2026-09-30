@@ -14,8 +14,8 @@
       "photo": "img/people/ma-ruiao.jpg",
       "year": { "zh": "2022 级", "en": "2022 cohort" },
       "topic": {
-        "zh": "叶际抗性组及潜在病原菌",
-        "en": "Phyllosphere resistome and potential pathogens"
+        "zh": "叶际ARGs分布格局及驱动机制",
+        "en": "Distribution patterns and driving mechanisms of phyllosphere ARGs"
       }
     },
     {
@@ -23,8 +23,8 @@
       "photo": "img/people/liu-ziteng.jpg",
       "year": { "zh": "2023 级", "en": "2023 cohort" },
       "topic": {
-        "zh": "农田土壤 ARGs 富集",
-        "en": "Enrichment of ARGs in agricultural soils"
+        "zh": "农田土壤ARGs富集机制",
+        "en": "Mechanisms of ARG enrichment in agricultural soils"
       }
     },
     {
@@ -33,7 +33,7 @@
       "year": { "zh": "2024 级", "en": "2024 cohort" },
       "topic": {
         "zh": "砷氧化还原耦合碳氮代谢过程",
-        "en": "Arsenic redox coupled with carbon–nitrogen metabolism"
+        "en": "Arsenic redox processes coupled with carbon–nitrogen metabolism"
       }
     },
     {
@@ -41,8 +41,8 @@
       "photo": "img/people/gao-ziyu.jpg",
       "year": { "zh": "2025 级", "en": "2025 cohort" },
       "topic": {
-        "zh": "砷甲基化与碳氮耦合代谢",
-        "en": "Arsenic methylation and coupled C–N metabolism"
+        "zh": "砷甲基化与碳氮耦合代谢过程",
+        "en": "Arsenic methylation coupled with carbon–nitrogen metabolic processes"
       }
     },
     {
@@ -50,8 +50,8 @@
       "photo": "img/people/zhang-hongsai.jpg",
       "year": { "zh": "2026 级", "en": "2026 cohort" },
       "topic": {
-        "zh": "宏基因组识别病毒序列",
-        "en": "Identifying viral sequences from metagenomes"
+        "zh": "砷胁迫稻田土壤病毒多样性及生态功能",
+        "en": "Viral diversity and ecological functions in arsenic-stressed paddy soils"
       }
     },
     {
@@ -59,8 +59,8 @@
       "photo": "img/people/meng-tinwei.jpg",
       "year": { "zh": "2026 级", "en": "2026 cohort" },
       "topic": {
-        "zh": "气候变化对抗性基因的影响",
-        "en": "Climate change impacts on antibiotic resistance genes"
+        "zh": "气候变化下土壤抗性基因的差异化响应机制",
+        "en": "Differential response mechanisms of soil resistance genes under climate change"
       }
     },
     {

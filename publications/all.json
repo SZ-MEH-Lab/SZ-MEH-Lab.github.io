@@ -1,20 +1,5 @@
 [
   {
-    "id": "li-2026-available-at-ssrn-6641642",
-    "type": "preprint",
-    "year": 2026,
-    "authors": "Jing-Peng Li, Lin Zhu, Ying Song, Jia-Ming Yi, Xue-Zhu Han, Zi-Teng Liu, Yi-Hui Ding, Si-Yu Zhang, Meizhen Wang.",
-    "title": "Dual-level adaptations of Pseudomonas aeruginosa to phenolic compounds underlie high-risk human bacterial pathogens in pesticide-contaminated soils",
-    "citation": "Available at SSRN 6641642.",
-    "doi": "https://doi.org/10.2139/ssrn.6641642",
-    "image": "img/journals/li-2026-available-at-ssrn-6641642.jpg",
-    "abstract": {
-      "en": "",
-      "zh": ""
-    },
-    "bibtex": ""
-  },
-  {
     "id": "liu-2026-isme-journal",
     "type": "journal",
     "year": 2026,
@@ -225,21 +210,6 @@
     "bibtex": ""
   },
   {
-    "id": "zhang-2017-frontiers-of-environmental-science-engineering",
-    "type": "journal",
-    "year": 2017,
-    "authors": "Si-Yu Zhang, Paul N Williams, Jinming Luo, Yong-Guan Zhu.",
-    "title": "Microbial mediated arsenic biotransformation in wetlands",
-    "citation": "Frontiers of Environmental Science & Engineering, 11 (1) (2017): 1.",
-    "doi": "https://doi.org/10.1007/s11783-017-0893-y",
-    "image": "img/journals/zhang-2017-frontiers-of-environmental-science-engineering.jpg",
-    "abstract": {
-      "en": "",
-      "zh": ""
-    },
-    "bibtex": ""
-  },
-  {
     "id": "zhang-2015-environmental-science-technology",
     "type": "journal",
     "year": 2015,
@@ -278,21 +248,6 @@
     "citation": "Environmental science & technology, 48 (2) (2014): 994-1000.",
     "doi": "https://doi.org/10.1021/es403836g",
     "image": "img/journals/zhang-2014-environmental-science-technology.jpg",
-    "abstract": {
-      "en": "",
-      "zh": ""
-    },
-    "bibtex": ""
-  },
-  {
-    "id": "zhang-2013-chemosphere",
-    "type": "journal",
-    "year": 2013,
-    "authors": "Si-Yu Zhang, Guo-Xin Sun, Xi-Xiang Yin, Christopher Rensing, Yong-Guan Zhu.",
-    "title": "Biomethylation and volatilization of arsenic by the marine microalgae Ostreococcus tauri",
-    "citation": "Chemosphere, 93 (1) (2013): 47-53.",
-    "doi": "https://doi.org/10.1016/j.chemosphere.2013.04.063",
-    "image": "img/journals/zhang-2013-chemosphere.jpg",
     "abstract": {
       "en": "",
       "zh": ""
